@@ -1,0 +1,22 @@
+{
+  "name": "AfriGenius",
+  "short_name": "AfriGenius",
+  "description": "Assistant IA pour corriger tes exercices de physique, chimie et maths",
+  "start_url": "https://script.google.com/macros/s/AKfycbyyHUO5l-P1bHmrDdyclnljgU0MwsBnhhNarQiMWCewixflFuW0BgqjYjrPmD_jgwU_/exec",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#0f3460",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/Xk4Sb2ZK/afrigenius-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/W4Tq1NmG/afrigenius-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
